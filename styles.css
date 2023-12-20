@@ -2,11 +2,6 @@
 
 /* Simple Portfolio Website by Jerald Pascual */
 /* I put in a lot of trial and errors and all my learnings about css */
-/*
-
-Not responsive at the moment
-
-*/
 
 
 /* Universal Declaration */
@@ -628,7 +623,7 @@ header .contact:active {
         /* about section */
 
     #about-section {
-        padding: 0px 3.85rem 0px;
+        padding: 50px 3.85rem ;
     }
 
     #about-section .hero-container {
