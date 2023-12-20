@@ -187,7 +187,7 @@ header .contact:active {
     display: flex;
     width: 100%;
     align-items: center;
-    padding: 50px 7.85rem ;
+    padding: 85px 7.85rem ;
     background: var(--main-color);
     border-bottom: 3.5px solid var(--fourth-color);
 }
