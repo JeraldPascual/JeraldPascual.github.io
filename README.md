@@ -76,7 +76,7 @@ Netlify allows for continuous deployment, meaning any changes pushed to the GitH
 For any inquiries or feedback, feel free to contact me:
 
 - **Email:** jpascual.ccsjdmshs@gmail.com
-- **Facebook:** [Jerald Pascual]([https://www.linkedin.com/in/your-profile](https://web.facebook.com/JeraldAnthoniOlinPascual))
-- **GitHub:** [JeraldPascual]([https://github.com/your-username](https://github.com/JeraldPascual))
+- **Facebook:** [Jerald Pascual](https://web.facebook.com/JeraldAnthoniOlinPascual)
+- **GitHub:** [JeraldPascual](https://github.com/JeraldPascual)
 
 HUGE CREDITS TO "WE ARE DIGITAL MAKERS" on youtube for this awesome website!!!
